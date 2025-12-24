@@ -13,18 +13,13 @@ author: Zhenlin Zhu
 
 # --- List of links in the navigation bar --- #
 
-# navbar-links:
-#   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "https://beautifuljekyll.com"
-#     - Learn markdown: "https://www.markdowntutorial.com/"
-#   Publications: "https://ui.adsabs.harvard.edu/user/libraries/pz5SbATKSB2KeqDXHAJy6w"
-#   Research:
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-- {file: "aboutme.md", title: "About me"}
-- {file: "research.md", title: "Research"}
-- {file: "resume.md", title: "Resume"}
-- {file: "index.md", title: "Projects"}
+navbar-links:
+  About Me: "aboutme"
+  Research: "research"
+  CV: "resume"
+  Publications: "https://ui.adsabs.harvard.edu/user/libraries/pz5SbATKSB2KeqDXHAJy6w"
+
+
 
 # --- Logo --- #
 
