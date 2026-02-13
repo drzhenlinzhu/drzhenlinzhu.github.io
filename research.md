@@ -1,4 +1,9 @@
 
+---
+layout: page
+title: Research
+---
+
 I study energetic plasma environments across vastly different scales — from the Galactic Center of the Milky Way to megaparsec-scale galaxy clusters. My goal is to understand how shocks, turbulence, and magnetic fields shape high-energy emission and particle acceleration in extreme astrophysical systems.
 
 ---
@@ -6,7 +11,7 @@ I study energetic plasma environments across vastly different scales — from th
 ## Galactic Center
 
 <p align="center">
-  <img src="/assets/img/the_GC_Chimmney.jpg" width="70%">
+  <img src="/assets/img/the_GC_Chimney.jpg" width="70%">
   <br>
   <em>Diffuse X-ray emission in the Galactic Center. Credit: Gabriele Ponti/MPE/INAF and Mark Morris/UCLA.</em>
 </p>
