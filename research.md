@@ -1,4 +1,3 @@
-# Research
 
 I study energetic plasma environments across vastly different scales — from the Galactic Center of the Milky Way to megaparsec-scale galaxy clusters. My goal is to understand how shocks, turbulence, and magnetic fields shape high-energy emission and particle acceleration in extreme astrophysical systems.
 
@@ -6,8 +5,8 @@ I study energetic plasma environments across vastly different scales — from th
 
 ## Galactic Center
 
-![Galactic Center X-ray image](/assets/img/the_GC.png)
-*Image credit: Zhu et al. (2018).*
+![Galactic Center X-ray image](/assets/img/the_GC_Chimney.jpg)
+*Image credit: Gabriele Ponti/MPE/INAF and Mark Morris/UCLA.*
 
 
 The Galactic Center (GC) is the nearest laboratory for studying feedback, particle acceleration, and diffuse X-ray emission in a dense, magnetized environment.
