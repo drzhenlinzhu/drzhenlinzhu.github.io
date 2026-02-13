@@ -7,7 +7,7 @@ permalink: /resume/
 # My Resume
 
 
-<a href="/assets/pdfs/Zhenlin_Zhu_Resume_DS.pdf" download>View / Download Resume (PDF)</a>
+<a href="/assets/pdf/Zhenlin_Zhu_Resume_DS.pdf" download>View / Download Resume (PDF)</a>
 
-<embed src="/assets/pdfs/Zhenlin_Zhu_Resume_DS.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="/assets/pdf/Zhenlin_Zhu_Resume_DS.pdf" type="application/pdf" width="100%" height="800px" />
 
