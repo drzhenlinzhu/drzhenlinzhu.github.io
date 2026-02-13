@@ -5,8 +5,11 @@ I study energetic plasma environments across vastly different scales — from th
 
 ## Galactic Center
 
-![Galactic Center X-ray image](/assets/img/the_GC_Chimney.jpg)
-*Image credit: Gabriele Ponti/MPE/INAF and Mark Morris/UCLA.*
+<p align="center">
+  <img src="/assets/img/the_GC_Chimmney.jpg" width="70%">
+  <br>
+  <em>Diffuse X-ray emission in the Galactic Center. Credit: Gabriele Ponti/MPE/INAF and Mark Morris/UCLA.</em>
+</p>
 
 
 The Galactic Center (GC) is the nearest laboratory for studying feedback, particle acceleration, and diffuse X-ray emission in a dense, magnetized environment.
@@ -24,7 +27,7 @@ Using deep observations from *Chandra* and *XMM-Newton*, I perform spatially res
 
 ## Galaxy Clusters
 
-![Galaxy cluster X-ray image](/assets/img/perseus.jpg)
+![Galaxy cluster X-ray image](/assets/img/perseus.jpg) <br>
 *Image credit: John ZuHone/Harvard-Smithsonian Center for Astrophysics.*
 
 
