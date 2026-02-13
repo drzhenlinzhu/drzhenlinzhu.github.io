@@ -6,7 +6,7 @@ I study energetic plasma environments across vastly different scales — from th
 
 ## Galactic Center
 
-![Galactic Center X-ray image](/assets/img/the_GC.jpg)
+![Galactic Center X-ray image](/assets/img/the_GC.png)
 *Image credit: Zhu et al. (2018).*
 
 
