@@ -6,7 +6,7 @@ I study energetic plasma environments across vastly different scales — from th
 ## Galactic Center
 
 <p align="center">
-  <img src="assets/img/the_GC_Chimmney.jpg" width="70%">
+  <img src="/assets/img/the_GC_Chimmney.jpg" width="70%">
   <br>
   <em>Diffuse X-ray emission in the Galactic Center. Credit: Gabriele Ponti/MPE/INAF and Mark Morris/UCLA.</em>
 </p>
@@ -27,7 +27,7 @@ Using deep observations from *Chandra* and *XMM-Newton*, I perform spatially res
 
 ## Galaxy Clusters
 
-![Galaxy cluster X-ray image](assets/img/perseus.jpg) <br>
+![Galaxy cluster X-ray image](/assets/img/perseus.jpg) <br>
 *Image credit: John ZuHone/Harvard-Smithsonian Center for Astrophysics.*
 
 
