@@ -7,7 +7,7 @@ permalink: /resume/
 # My Resume
 
 
-[View/Download Resume (PDF)]({{ "/assets/pdfs/Zhenlin_Zhu_Resume_DS.pdf" | relative_url }})
+<a href="/assets/pdfs/Zhenlin_Zhu_Resume_DS.pdf" download>View / Download Resume (PDF)</a>
 
-<embed src="{{ "/assets/pdfs/Zhenlin_Zhu_Resume_DS.pdf" | relative_url }}" type="application/pdf" width="100%" height="800px" />
+<embed src="/assets/pdfs/Zhenlin_Zhu_Resume_DS.pdf" type="application/pdf" width="100%" height="800px" />
 

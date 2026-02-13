@@ -32,8 +32,12 @@ Using deep observations from *Chandra* and *XMM-Newton*, I perform spatially res
 
 ## Galaxy Clusters
 
-![Galaxy cluster X-ray image](/assets/img/perseus.jpg) <br>
-*Image credit: John ZuHone/Harvard-Smithsonian Center for Astrophysics.*
+
+<p align="center">
+  <img src="/assets/img/perseus.jpg" width="70%">
+  <br>
+  <em> Perseus Cluster Core. Credit: John ZuHone/Harvard-Smithsonian Center for Astrophysics. </em>
+</p>
 
 
 Galaxy clusters are the largest gravitationally bound systems in the Universe. Their hot intracluster medium (ICM) provides a unique environment to study plasma physics on cosmological scales.
