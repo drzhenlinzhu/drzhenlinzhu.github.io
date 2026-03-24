@@ -1,8 +1,5 @@
 
----
-layout: page
-title: Research
----
+
 
 I study energetic plasma environments across vastly different scales — from the Galactic Center of the Milky Way to megaparsec-scale galaxy clusters. My goal is to understand how shocks, turbulence, and magnetic fields shape high-energy emission and particle acceleration in extreme astrophysical systems.
 
